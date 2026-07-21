@@ -1,7 +1,7 @@
 ![Banner](https://github.com/bcd00/bcd00/blob/main/banner.jpeg)
 
 # 💫 About Me:
-I'm a data scientist and full stack developer currently working on large-scale data visualisation and website design.
+I'm a product engineer and data visualisation expert currently working on AI driven care pathways with The Evidence Company.
 
 
 ## 🌐 Socials:
